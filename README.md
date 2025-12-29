@@ -8,7 +8,9 @@ An ancient Egyptian board game brought to [KOReader](https://github.com/koreader
 
 **Modes**
 
-- **Player vs Player** (hotseat on the same device)
+- **Player vs Player**
+- **Player vs AI – Easy**
+- **Player vs AI – Normal**
 
 
 ## 📸 Screenshots
@@ -60,7 +62,9 @@ Main board and in-game rules running inside KOReader:
    - `Tools` → **Senet**  
      (or the section where KOReader lists user plugins on your build).
 3. Choose your **mode**:
-   - Player vs Player
+   - Player vs Player  
+   - Player vs AI – Easy  
+   - Player vs AI – Normal  
 4. Play and enjoy (｡◕‿‿◕｡)
 
 
