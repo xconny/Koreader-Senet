@@ -1,6 +1,6 @@
 # 🐍 Senet for KOReader
 
-An ancient Egyptian board game brought to [KOReader](https://github.com/koreader/koreader) – play Senet directly on your e-reader.
+A lesser known ancient Egyptian board game, symobolizing the souls journey through the afterlife brought to [KOReader](https://github.com/koreader/koreader) – play Senet directly on your e-reader.
 
 **Game**
 
